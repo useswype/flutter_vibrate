@@ -1,3 +1,8 @@
+## 1.3.2
+
+* Update gradle-wrapper.properties to use Gradle 8.12
+* Update Android Gradle Plugin to 8.6.1
+
 ## 1.3.1
 
 * Replaces `TARGET_OS_SIMULATOR` check with `targetEnvironment(simulator)`
